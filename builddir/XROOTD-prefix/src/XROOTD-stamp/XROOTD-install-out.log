@@ -1,0 +1,421 @@
+[  0%] Built target XrdVersion.hh
+[ 19%] Built target XrdUtils
+[ 23%] Built target XrdClient
+[ 24%] Built target xrd
+[ 24%] Built target xprep
+[ 27%] Built target XrdCrypto
+[ 27%] Built target xrdgsitest
+[ 28%] Built target xrdgsiproxy
+[ 29%] Built target XrdSecpwd-4
+[ 29%] Built target xrdsssadmin
+[ 46%] Built target XrdServer
+[ 51%] Built target cmsd
+[ 51%] Built target XrdSsiShMap
+[ 53%] Built target XrdSec-4
+[ 55%] Built target XrdXml
+[ 64%] Built target XrdCl
+[ 66%] Built target XrdPosix
+[ 66%] Built target xrdadler32
+[ 66%] Built target XrdAppUtils
+[ 67%] Built target xrdqstats
+[ 67%] Built target XrdSecgsiAUTHZVO-4
+[ 67%] Built target XrdSecunix-4
+[ 68%] Built target cconfig
+[ 70%] Built target XrdHttpUtils
+[ 70%] Built target XrdHttp-4
+[ 70%] Built target XrdCryptoLite
+[ 70%] Built target XrdSecsss-4
+[ 72%] Built target XrdFrm
+[ 72%] Built target frm_purged
+[ 73%] Built target wait41
+[ 73%] Built target frm_xfrd
+[ 74%] Built target XrdThrottle-4
+[ 74%] Built target xrdmapc
+[ 74%] Built target xrdpwdadmin
+[ 74%] Built target xrdacctest
+[ 76%] Built target XrdCryptossl-4
+[ 77%] Built target XrdClProxyPlugin-4
+[ 78%] Built target XrdSecgsi-4
+[ 78%] Built target XrdSecgsiGMAPDN-4
+[ 79%] Built target XrdBwm-4
+[ 81%] Built target XrdFileCache-4
+[ 82%] Built target xrdstagetool
+[ 82%] Built target XrdCksCalczcrc32-4
+[ 82%] Built target XrdXrootd-4
+[ 83%] Built target frm_xfragent
+[ 85%] Built target frm_admin
+[ 85%] Built target mpxstats
+[ 88%] Built target XrdSsiLib
+[ 89%] Built target XrdSsiLog-4
+[ 90%] Built target xrootd
+[ 91%] Built target xrdpfc_print
+[ 92%] Built target XrdPosixPreload
+[ 92%] Built target XrdSecProt-4
+[ 93%] Built target xrdcp-old
+[ 95%] Built target XrdFfs
+[ 96%] Built target XrdPss-4
+[ 96%] Built target XrdN2No2p-4
+[ 97%] Built target XrdOssSIgpfsT-4
+[ 97%] Built target XrdCmsRedirectLocal-4
+[ 98%] Built target XrdSsi-4
+[ 99%] Built target XrdBlacklistDecision-4
+[100%] Built target xrdcp
+[100%] Built target xrdfs
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/xrootd/cmake/XRootDConfig.cmake
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdUtils.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdUtils.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdUtils.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdUtils.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdAppUtils.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdAppUtils.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdAppUtils.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdAppUtils.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdClProxyPlugin-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdClProxyPlugin-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdacctest
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdacctest" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdadler32
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdadler32" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdcp-old
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdcp-old" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/cconfig
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/cconfig" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/mpxstats
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/mpxstats" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/wait41
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/wait41" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdmapc
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdmapc" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdadler32.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdcp-old.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/mpxstats.8
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCrypto.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCrypto.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCrypto.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCrypto.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCryptoLite.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCryptoLite.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCryptoLite.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCryptoLite.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCryptossl-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCryptossl-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSec-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSec-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecpwd-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecpwd-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecsss-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecsss-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecunix-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecunix-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecProt-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecProt-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdsssadmin
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdsssadmin" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdpwdadmin
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdpwdadmin" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/xrdsssadmin.8
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/xrdpwdadmin.8
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdXml.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdXml.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdXml.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdXml.so
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdVersion.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XProtocol/XProtocol.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XProtocol/XPtypes.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdBuffer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdJob.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdLink.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdLinkMatch.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdProtocol.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/Xrd/XrdScheduler.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNet.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetAddr.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetAddrInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetUtils.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetCmsNotify.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetConnect.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetOpts.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetSockAddr.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdNet/XrdNetSocket.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucBuffer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCRC.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCache.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCacheCM.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCacheStats.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCallBack.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucChain.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucDLlist.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucEnv.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucErrInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucGMap.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucHash.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucHash.icc
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucIOVec.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucLock.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucName2Name.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucPinPath.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucRash.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucRash.icc
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucSFVec.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucStream.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucString.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucTList.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucTable.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucTokenizer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucTrace.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucUtils.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOuca2x.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucEnum.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOuc/XrdOucCompiler.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSec/XrdSecEntity.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSec/XrdSecInterface.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysAtomics.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysDNS.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysError.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysFD.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysHeaders.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysLinuxSemaphore.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysLogger.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysLogPI.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysPlatform.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysPlugin.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysPthread.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysSemWait.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysTimer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysXAttr.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSys/XrdSysXSLock.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdXml/XrdXmlReader.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdAcc/XrdAccAuthorize.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdAcc/XrdAccPrivs.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCks/XrdCks.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCks/XrdCksAssist.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCks/XrdCksCalc.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCks/XrdCksData.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCks/XrdCksManager.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClient.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientAbs.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientAbsMonIntf.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientAdmin.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientConst.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientEnv.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientUnsolMsg.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientUrlInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientUrlSet.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdClient/XrdClientVector.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCms/XrdCmsClient.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCms/XrdCmsVnId.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdFileCache/XrdFileCacheDecision.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOfs/XrdOfsPrepare.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOss/XrdOss.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOss/XrdOssDefaultSS.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdOss/XrdOssStatInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosix.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixCache.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixCallBack.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixExtern.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixOsDep.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixXrootd.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdPosix/XrdPosixXrootdPath.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSfs/XrdSfsAio.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSfs/XrdSfsDio.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSfs/XrdSfsXio.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSfs/XrdSfsFlags.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdSfs/XrdSfsInterface.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdXrootd/XrdXrootdMonData.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdXrootd/XrdXrootdBridge.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdHttp/XrdHttpSecXtractor.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/Xrd/XrdPoll.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdNet/XrdNetPeer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdNet/XrdNetBuffer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdNet/XrdNetIF.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSecsss/XrdSecsssID.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSys/XrdSysPriv.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOuc/XrdOucExport.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOuc/XrdOucPList.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOuc/XrdOucN2NLoader.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientConn.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientConnMgr.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientDebug.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientInputBuffer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientLogConnection.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientMessage.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientPhyConnection.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientReadCache.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdClient/XrdClientSock.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdHttp/XrdHttpExtHandler.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOfs/XrdOfs.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOfs/XrdOfsEvr.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOfs/XrdOfsHandle.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOfs/XrdOfsTrace.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOfs/XrdOfsTPCInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiAtomics.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiCluster.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiEntity.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiErrInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiLogger.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiProvider.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiRequest.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiRespInfo.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiResponder.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiResource.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiService.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSsi/XrdSsiStream.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOss/XrdOssApi.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOss/XrdOssConfig.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdOss/XrdOssError.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoX509.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoX509Chain.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoAux.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptosslAux.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoX509Crl.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoX509Req.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptoRSA.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCrypto/XrdCryptosslgsiAux.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSut/XrdSutAux.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdSut/XrdSutBucket.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdVoms/XrdVoms.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecgsi-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecgsi-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecgsiAUTHZVO-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecgsiAUTHZVO-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSecgsiGMAPDN-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSecgsiGMAPDN-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdgsiproxy
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdgsiproxy" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdgsitest
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdgsitest" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdgsiproxy.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdgsitest.1
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdClient.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdClient.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdClient.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdClient.so
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrd
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrd" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xprep
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xprep" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdstagetool
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdstagetool" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrd.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xprep.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdstagetool.1
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdServer.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdServer.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdServer.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdServer.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdXrootd-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdXrootd-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrootd
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrootd" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/cmsd
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/cmsd" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/cmsd.8
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/xrootd.8
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/frm_admin
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/frm_admin" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/frm_purged
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/frm_purged" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/frm_xfrd
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/frm_xfrd" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/frm_xfragent
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/frm_xfragent" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/frm_admin.8
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/frm_purged.8
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/frm_xfrd.8
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/frm_xfragent.8
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosix.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosix.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdPosix.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosix.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosixPreload.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosixPreload.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdPosixPreload.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPosixPreload.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdFfs.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdFfs.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdFfs.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdFfs.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdPss-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdPss-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdBwm-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdBwm-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdOssSIgpfsT-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdOssSIgpfsT-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCksCalczcrc32-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCksCalczcrc32-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdThrottle-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdThrottle-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdN2No2p-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdN2No2p-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCmsRedirectLocal-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCmsRedirectLocal-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiLib.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiLib.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSsiLib.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiLib.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiShMap.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiShMap.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSsiShMap.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiShMap.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsi-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSsi-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdSsiLog-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdSsiLog-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdFileCache-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdFileCache-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdBlacklistDecision-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdBlacklistDecision-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdpfc_print
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdpfc_print" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man8/xrdpfc_print.8
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdHttpUtils.so.1.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdHttpUtils.so.1
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdHttpUtils.so.1.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdHttpUtils.so
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdHttp-4.so
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdHttp-4.so" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/share/xrootd/utils/XrdCmsNotify.pm
+-- Installing: /home/diagoras/root_cern/root/builddir/share/xrootd/utils/netchk
+-- Installing: /home/diagoras/root_cern/root/builddir/share/xrootd/utils/XrdOlbMonPerf
+-- Installing: /home/diagoras/root_cern/root/builddir/share/xrootd/utils/cms_monPerf
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCl.so.2.0.0
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCl.so.2
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/lib/libXrdCl.so.2.0.0" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libXrdCl.so
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdfs
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdfs" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/bin/xrdcp
+-- Set runtime path of "/home/diagoras/root_cern/root/builddir/bin/xrdcp" to "/home/diagoras/root_cern/root/builddir/lib"
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClAnyObject.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClBuffer.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClConstants.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClCopyProcess.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClDefaultEnv.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClEnv.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClFile.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClFileSystem.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClMessage.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClMonitor.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClPostMaster.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClPostMasterInterfaces.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClTransportManager.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClStatus.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClURL.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClXRootDResponses.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClPlugInInterface.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClPlugInManager.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClPropertyList.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClFileSystemUtils.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/XrdCl/XrdClLog.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClOperations.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClOperationHandlers.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClArg.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClFwd.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClParallelOperation.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClFileOperations.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/include/xrootd/private/XrdCl/XrdClFileSystemOperations.hh
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdfs.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdcp.1
+-- Installing: /home/diagoras/root_cern/root/builddir/share/man/man1/xrdmapc.1

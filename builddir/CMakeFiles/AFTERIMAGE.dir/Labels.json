@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"AFTERIMAGE"
+		],
+		"name" : "AFTERIMAGE"
+	}
+}

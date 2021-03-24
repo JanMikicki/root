@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libLLVMDebugInfoGSYM.a  CMakeFiles/LLVMDebugInfoGSYM.dir/FunctionInfo.cpp.o CMakeFiles/LLVMDebugInfoGSYM.dir/InlineInfo.cpp.o CMakeFiles/LLVMDebugInfoGSYM.dir/Range.cpp.o
+/usr/bin/ranlib ../../libLLVMDebugInfoGSYM.a

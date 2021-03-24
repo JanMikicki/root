@@ -1,0 +1,16 @@
+/home/diagoras/root_cern/root/builddir/include/vdt/asin.h
+/home/diagoras/root_cern/root/builddir/include/vdt/atan.h
+/home/diagoras/root_cern/root/builddir/include/vdt/tanh.h
+/home/diagoras/root_cern/root/builddir/include/vdt/atan2.h
+/home/diagoras/root_cern/root/builddir/include/vdt/cos.h
+/home/diagoras/root_cern/root/builddir/include/vdt/exp.h
+/home/diagoras/root_cern/root/builddir/include/vdt/identity.h
+/home/diagoras/root_cern/root/builddir/include/vdt/inv.h
+/home/diagoras/root_cern/root/builddir/include/vdt/log.h
+/home/diagoras/root_cern/root/builddir/include/vdt/sincos.h
+/home/diagoras/root_cern/root/builddir/include/vdt/sin.h
+/home/diagoras/root_cern/root/builddir/include/vdt/sqrt.h
+/home/diagoras/root_cern/root/builddir/include/vdt/tan.h
+/home/diagoras/root_cern/root/builddir/include/vdt/vdtcore_common.h
+/home/diagoras/root_cern/root/builddir/include/vdt/vdtMath.h
+/home/diagoras/root_cern/root/builddir/lib/libvdt.so

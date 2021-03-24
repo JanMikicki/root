@@ -1,0 +1,14 @@
+# Target labels
+ VDT
+# Source files and their labels
+/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT
+/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT.rule
+/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT-complete.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-install.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-mkdir.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-download.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-update.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-patch.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-configure.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-build.rule
+/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-copy2externals.rule

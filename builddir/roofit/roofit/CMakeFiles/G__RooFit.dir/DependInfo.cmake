@@ -1,0 +1,122 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx" "/home/diagoras/root_cern/root/builddir/roofit/roofit/CMakeFiles/G__RooFit.dir/G__RooFit.cxx.o"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/LinkDef1.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/Roo2DKeysPdf.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooArgusBG.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBCPEffDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBCPGenDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBernstein.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBifurGauss.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBlindTools.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBMixDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBreitWigner.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooBukinPdf.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCBShape.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCrystalBall.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCFunction1Binding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCFunction2Binding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCFunction3Binding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooCFunction4Binding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooChebychev.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooChi2MCSModule.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooChiSquarePdf.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooDstD0BG.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooExponential.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooFunctor1DBinding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooFunctorBinding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooGamma.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooGaussian.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooGaussModel.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooGExpModel.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooHistConstraint.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooIntegralMorph.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooJeffreysPrior.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooKeysPdf.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooLandau.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooLognormal.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMathCoreReg.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMomentMorphFunc.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMomentMorphFuncND.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMomentMorph.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMomentMorphND.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooMultiBinomial.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooNDKeysPdf.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooNonCPEigenDecay.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooNovosibirsk.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooParametricStepFunction.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooParamHistFunc.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooPoisson.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooPolynomial.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooStepFunction.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooTFnBinding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooTFnPdfBinding.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooTMathReg.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooUnblindCPAsymVar.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooUnblindOffset.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooUnblindPrecision.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooUnblindUniform.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooUniform.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooVoigtian.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  "/home/diagoras/root_cern/root/roofit/roofit/inc/RooJohnson.h" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../roofit/roofit/inc"
+  "include"
+  "/usr/include/freetype2"
+  "../core/unix/inc"
+  "../core/foundation/v7/inc"
+  "../core/base/v7/inc"
+  "../core/clingutils/inc"
+  "../core/textinput/inc"
+  "../core/thread/inc"
+  "../core/zip/inc"
+  "../core/rint/inc"
+  "../core/clib/inc"
+  "../core/meta/inc"
+  "../core/gui/inc"
+  "../core/cont/inc"
+  "../core/foundation/inc"
+  "../core/base/inc"
+  "ginclude"
+  "../roofit/roofitcore/inc"
+  "../hist/hist/inc"
+  "../math/mathcore/v7/inc"
+  "../math/mathcore/inc"
+  "../core/imt/inc"
+  "../core/multiproc/inc"
+  "../math/matrix/inc"
+  "../graf2d/graf/inc"
+  "../io/io/v7/inc"
+  "../io/io/inc"
+  "../core/clib/res"
+  "../builtins"
+  "../tree/tree/inc"
+  "../math/minuit/inc"
+  "../math/foam/inc"
+  "../math/smatrix/inc"
+  "../roofit/batchcompute/inc"
+  "../net/net/inc"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/diagoras/root_cern/root/builddir/lib/RooFit.pcm" "/home/diagoras/root_cern/root/builddir/roofit/roofit/G__RooFit.cxx"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,17 @@
+[ 70%] Built target cladDifferentiator
+[100%] Built target cladPlugin
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Compatibility.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Tape.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/BuiltinDerivatives.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/DerivativeBuilder.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Differentiator.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Version.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/StmtClone.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/DiffPlanner.h
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/lib/libcladDifferentiator.a
+-- Installing: /home/diagoras/root_cern/root/builddir/etc/cling/plugins/lib/libcladPlugin.a

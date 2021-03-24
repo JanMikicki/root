@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../lib/libclangDependencyScanning.a  CMakeFiles/obj.clangDependencyScanning.dir/DependencyScanningWorker.cpp.o
+/usr/bin/ranlib ../../../../../lib/libclangDependencyScanning.a

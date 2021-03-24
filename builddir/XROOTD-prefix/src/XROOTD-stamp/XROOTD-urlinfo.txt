@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://lcgpackages.web.cern.ch/lcgpackages/tarFiles/sources/xrootd-4.12.8.tar.gz'
+tag='SHA256=86d8e4bd7382fb3053002cf3d58b997623d1d26db93c8891080603827f01b4cd'

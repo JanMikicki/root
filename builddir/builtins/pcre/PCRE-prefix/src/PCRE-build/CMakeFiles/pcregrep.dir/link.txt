@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/pcregrep.dir/pcregrep.c.o  -o pcregrep  libpcreposix.a -lz libpcre.a 

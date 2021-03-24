@@ -1,0 +1,61 @@
+Determining if the function strlcpy exists failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_15c0e/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_15c0e.dir/build.make CMakeFiles/cmTC_15c0e.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_15c0e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wno-implicit-fallthrough -pipe -Wall -W -pthread -DCHECK_FUNCTION_EXISTS=strlcpy   -o CMakeFiles/cmTC_15c0e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_15c0e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_15c0e.dir/link.txt --verbose=1
+/usr/bin/cc  -Wno-implicit-fallthrough -pipe -Wall -W -pthread -DCHECK_FUNCTION_EXISTS=strlcpy    -rdynamic CMakeFiles/cmTC_15c0e.dir/CheckFunctionExists.c.o  -o cmTC_15c0e 
+/usr/bin/ld: CMakeFiles/cmTC_15c0e.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `strlcpy'
+collect2: error: ld returned 1 exit status
+make[4]: *** [CMakeFiles/cmTC_15c0e.dir/build.make:87: cmTC_15c0e] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_15c0e/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function crypt exists failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_12598/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_12598.dir/build.make CMakeFiles/cmTC_12598.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_12598.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wno-implicit-fallthrough -pipe -Wall -W -pthread -DCHECK_FUNCTION_EXISTS=crypt   -o CMakeFiles/cmTC_12598.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_12598
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12598.dir/link.txt --verbose=1
+/usr/bin/cc  -Wno-implicit-fallthrough -pipe -Wall -W -pthread -DCHECK_FUNCTION_EXISTS=crypt    -rdynamic CMakeFiles/cmTC_12598.dir/CheckFunctionExists.c.o  -o cmTC_12598 
+/usr/bin/ld: CMakeFiles/cmTC_12598.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `crypt'
+collect2: error: ld returned 1 exit status
+make[4]: *** [CMakeFiles/cmTC_12598.dir/build.make:87: cmTC_12598] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_12598/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file et/com_err.h exists failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e64cc/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_e64cc.dir/build.make CMakeFiles/cmTC_e64cc.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e64cc.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -Wno-implicit-fallthrough -pipe -Wall -W -pthread    -o CMakeFiles/cmTC_e64cc.dir/CheckIncludeFile.c.o   -c /home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: et/com_err.h: No such file or directory
+    1 | #include <et/com_err.h>
+      |          ^~~~~~~~~~~~~~
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_e64cc.dir/build.make:66: CMakeFiles/cmTC_e64cc.dir/CheckIncludeFile.c.o] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_e64cc/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-build/CMakeFiles/CMakeTmp'
+
+
+

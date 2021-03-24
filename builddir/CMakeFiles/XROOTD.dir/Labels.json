@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/XROOTD"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/XROOTD.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/XROOTD-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/XROOTD-prefix/src/XROOTD-stamp/XROOTD-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"XROOTD"
+		],
+		"name" : "XROOTD"
+	}
+}

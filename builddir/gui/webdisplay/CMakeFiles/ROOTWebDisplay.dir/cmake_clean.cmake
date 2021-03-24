@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "../../lib/libROOTWebDisplay.pdb"
+  "../../lib/libROOTWebDisplay.so"
+  "CMakeFiles/ROOTWebDisplay.dir/src/RWebDisplayArgs.cxx.o"
+  "CMakeFiles/ROOTWebDisplay.dir/src/RWebDisplayHandle.cxx.o"
+  "CMakeFiles/ROOTWebDisplay.dir/src/RWebWindow.cxx.o"
+  "CMakeFiles/ROOTWebDisplay.dir/src/RWebWindowsManager.cxx.o"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ROOTWebDisplay.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

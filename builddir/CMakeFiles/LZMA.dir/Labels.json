@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/LZMA"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/LZMA.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/LZMA-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA-stamp/LZMA-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"LZMA"
+		],
+		"name" : "LZMA"
+	}
+}

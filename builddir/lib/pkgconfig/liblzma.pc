@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/diagoras/root_cern/root/builddir
+exec_prefix=/home/diagoras/root_cern/root/builddir
+libdir=/home/diagoras/root_cern/root/builddir/lib
+includedir=/home/diagoras/root_cern/root/builddir/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread 

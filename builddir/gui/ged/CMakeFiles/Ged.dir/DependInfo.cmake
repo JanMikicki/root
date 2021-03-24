@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/diagoras/root_cern/root/gui/ged/src/HelpSMText.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/HelpSMText.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TArrowEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TArrowEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TAttFillEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TAttFillEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TAttLineEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TAttLineEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TAttMarkerEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TAttMarkerEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TAttTextEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TAttTextEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TAxisEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TAxisEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TCurlyArcEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TCurlyArcEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TCurlyLineEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TCurlyLineEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TF1Editor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TF1Editor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TFrameEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TFrameEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TFunctionParametersDialog.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TFunctionParametersDialog.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TGedEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TGedEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TGedFrame.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TGedFrame.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TGedMarkerSelect.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TGedMarkerSelect.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TGedPatternSelect.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TGedPatternSelect.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TGraphEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TGraphEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TH1Editor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TH1Editor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TH2Editor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TH2Editor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TLineEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TLineEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TPadEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TPadEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TPaveStatsEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TPaveStatsEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TPieEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TPieEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TPieSliceEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TPieSliceEditor.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TStyleDialog.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TStyleDialog.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TStyleManager.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TStyleManager.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TStylePreview.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TStylePreview.cxx.o"
+  "/home/diagoras/root_cern/root/gui/ged/src/TTextEditor.cxx" "/home/diagoras/root_cern/root/builddir/gui/ged/CMakeFiles/Ged.dir/src/TTextEditor.cxx.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../gui/ged/inc"
+  "../core/unix/inc"
+  "../core/foundation/v7/inc"
+  "../core/base/v7/inc"
+  "../core/clingutils/inc"
+  "../core/textinput/inc"
+  "../core/thread/inc"
+  "../core/zip/inc"
+  "../core/rint/inc"
+  "../core/clib/inc"
+  "../core/meta/inc"
+  "../core/gui/inc"
+  "../core/cont/inc"
+  "../core/foundation/inc"
+  "../core/base/inc"
+  "ginclude"
+  "../hist/hist/inc"
+  "../math/mathcore/v7/inc"
+  "../math/mathcore/inc"
+  "../core/imt/inc"
+  "../core/multiproc/inc"
+  "../math/matrix/inc"
+  "../graf2d/gpad/inc"
+  "../graf2d/graf/inc"
+  "../io/io/v7/inc"
+  "../io/io/inc"
+  "../core/clib/res"
+  "../builtins"
+  "/usr/include/freetype2"
+  "../gui/gui/inc"
+  "../tree/tree/inc"
+  "../tree/treeplayer/inc"
+  "../net/net/inc"
+  "../graf3d/g3d/inc"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/diagoras/root_cern/root/builddir/gui/gui/CMakeFiles/Gui.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/tree/treeplayer/CMakeFiles/TreePlayer.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/tree/tree/CMakeFiles/Tree.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/graf3d/g3d/CMakeFiles/Graf3d.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/graf2d/gpad/CMakeFiles/Gpad.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/graf2d/graf/CMakeFiles/Graf.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/hist/hist/CMakeFiles/Hist.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/math/matrix/CMakeFiles/Matrix.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/math/mathcore/CMakeFiles/MathCore.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/core/imt/CMakeFiles/Imt.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/core/multiproc/CMakeFiles/MultiProc.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/net/net/CMakeFiles/Net.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/io/io/CMakeFiles/RIO.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/core/thread/CMakeFiles/Thread.dir/DependInfo.cmake"
+  "/home/diagoras/root_cern/root/builddir/core/CMakeFiles/Core.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

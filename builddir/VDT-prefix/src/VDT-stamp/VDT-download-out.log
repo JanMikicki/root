@@ -1,0 +1,21 @@
+-- Downloading...
+   dst='/home/diagoras/root_cern/root/builddir/VDT-prefix/src/vdt-0.4.3.tar.gz'
+   timeout='600 seconds'
+-- Using src='http://lcgpackages.web.cern.ch/lcgpackages/tarFiles/sources/vdt-0.4.3.tar.gz'
+-- [download 100% complete]
+-- [download 23% complete]
+-- [download 32% complete]
+-- [download 56% complete]
+-- [download 77% complete]
+-- [download 100% complete]
+-- verifying file...
+       file='/home/diagoras/root_cern/root/builddir/VDT-prefix/src/vdt-0.4.3.tar.gz'
+-- Downloading... done
+-- extracting...
+     src='/home/diagoras/root_cern/root/builddir/VDT-prefix/src/vdt-0.4.3.tar.gz'
+     dst='/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

@@ -1,0 +1,13 @@
+# Target labels
+ AFTERIMAGE
+# Source files and their labels
+/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE
+/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE.rule
+/home/diagoras/root_cern/root/builddir/CMakeFiles/AFTERIMAGE-complete.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-install.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-mkdir.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-download.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-update.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-patch.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-configure.rule
+/home/diagoras/root_cern/root/builddir/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-build.rule

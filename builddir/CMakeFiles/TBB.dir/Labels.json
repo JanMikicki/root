@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/TBB"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/TBB.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/TBB-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-build.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/TBB-prefix/src/TBB-stamp/TBB-tbb2externals.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TBB"
+		],
+		"name" : "TBB"
+	}
+}

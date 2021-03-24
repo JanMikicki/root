@@ -1,0 +1,11 @@
+-- verifying file...
+     file='/home/diagoras/root_cern/root/core/lzma/src/xz-5.2.4.tar.gz'
+-- verifying file... done
+-- extracting...
+     src='/home/diagoras/root_cern/root/core/lzma/src/xz-5.2.4.tar.gz'
+     dst='/home/diagoras/root_cern/root/builddir/LZMA-prefix/src/LZMA'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

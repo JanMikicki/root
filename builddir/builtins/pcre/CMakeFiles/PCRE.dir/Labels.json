@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PCRE"
+		],
+		"name" : "PCRE"
+	}
+}

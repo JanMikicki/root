@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/VDT-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-build.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/VDT-prefix/src/VDT-stamp/VDT-copy2externals.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VDT"
+		],
+		"name" : "VDT"
+	}
+}

@@ -1,0 +1,19 @@
+[100%] Built target vdt
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/asin.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/atan.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/tanh.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/atan2.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/cos.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/exp.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/identity.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/inv.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/log.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/sincos.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/sin.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/sqrt.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/tan.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/vdtcore_common.h
+-- Installing: /home/diagoras/root_cern/root/builddir/include/vdt/vdtMath.h
+-- Installing: /home/diagoras/root_cern/root/builddir/lib/libvdt.so

@@ -1,0 +1,80 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx" "/home/diagoras/root_cern/root/builddir/io/io/CMakeFiles/G__RIO.dir/G__RIO.cxx.o"
+  "/home/diagoras/root_cern/root/io/io/inc/LinkDef.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/ROOT/RRawFile.hxx" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/ROOT/RRawFileUnix.hxx" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/ROOT/TBufferMerger.hxx" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TArchiveFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TBufferFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TBufferText.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TBufferIO.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TBufferJSON.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TCollectionProxyFactory.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TContainerConverters.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TEmulatedMapProxy.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TEmulatedCollectionProxy.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TDirectoryFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFileCacheRead.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFileMerger.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFree.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFileCacheWrite.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFilePrefetch.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TFPBlock.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TGenCollectionStreamer.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TGenCollectionProxy.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TKey.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TKeyMapFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TLockFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TMemFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TMapFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TMakeProject.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TStreamerInfoActions.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TVirtualCollectionIterators.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TStreamerInfo.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/inc/TZIPFile.h" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  "/home/diagoras/root_cern/root/io/io/v7/inc/ROOT/RFile.hxx" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "include"
+  "../io/io/v7/inc"
+  "../io/io/inc"
+  "../core/unix/inc"
+  "../core/foundation/v7/inc"
+  "../core/base/v7/inc"
+  "../core/clingutils/inc"
+  "../core/textinput/inc"
+  "../core/thread/inc"
+  "../core/zip/inc"
+  "../core/rint/inc"
+  "../core/clib/inc"
+  "../core/meta/inc"
+  "../core/gui/inc"
+  "../core/cont/inc"
+  "../core/foundation/inc"
+  "../core/base/inc"
+  "ginclude"
+  "../core/clib/res"
+  "../builtins"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/diagoras/root_cern/root/builddir/lib/RIO.pcm" "/home/diagoras/root_cern/root/builddir/io/io/G__RIO.cxx"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

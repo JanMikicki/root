@@ -1,0 +1,105 @@
+build/common.inc:48: "Warning: deprecated cpp0x=1 is used, stdver must be used instead. Building in stdver=c++0x mode."
+../../build/Makefile.tbb:28: CONFIG: cfg=debug arch=intel64 compiler=gcc target=linux runtime=cc9.3.0_libc2.31_kernel5.8.0
+../../build/Makefile.tbb:28: CONFIG: cfg=release arch=intel64 compiler=gcc target=linux runtime=cc9.3.0_libc2.31_kernel5.8.0
+../../src/tbbmalloc/proxy.cpp:300:7: warning: ‘void* __libc_valloc(size_t)’ specifies less restrictive attributes than its target ‘void* valloc(size_t)’: ‘alloc_size’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  300 | void *__libc_valloc(size_t size) __attribute__ ((alias ("valloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:231:14: note: ‘void* __libc_valloc(size_t)’ target declared here
+  231 | void *PREFIX(valloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:299:7: warning: ‘void* __libc_pvalloc(size_t)’ specifies less restrictive attributes than its target ‘void* pvalloc(size_t)’: ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  299 | void *__libc_pvalloc(size_t size) __attribute__ ((alias ("pvalloc")));
+      |       ^~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:261:7: note: ‘void* __libc_pvalloc(size_t)’ target declared here
+  261 | void *pvalloc(size_t size) __THROW
+      |       ^~~~~~~
+../../src/tbbmalloc/proxy.cpp:298:7: warning: ‘void* __libc_memalign(size_t, size_t)’ specifies less restrictive attributes than its target ‘void* memalign(size_t, size_t)’: ‘alloc_size’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  298 | void *__libc_memalign(size_t alignment, size_t size) __attribute__ ((alias ("memalign")));
+      |       ^~~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:225:14: note: ‘void* __libc_memalign(size_t, size_t)’ target declared here
+  225 | void *PREFIX(memalign)(ZONE_ARG size_t alignment, size_t size) __THROW
+      |              ^~~~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:297:7: warning: ‘void* __libc_calloc(size_t, size_t)’ specifies less restrictive attributes than its target ‘void* calloc(size_t, size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  297 | void *__libc_calloc(size_t num, size_t size) __attribute__ ((alias ("calloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:205:14: note: ‘void* __libc_calloc(size_t, size_t)’ target declared here
+  205 | void *PREFIX(calloc)(ZONE_ARG size_t num, size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:296:7: warning: ‘void* __libc_malloc(size_t)’ specifies less restrictive attributes than its target ‘void* malloc(size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  296 | void *__libc_malloc(size_t size) __attribute__ ((alias ("malloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:200:14: note: ‘void* __libc_malloc(size_t)’ target declared here
+  200 | void *PREFIX(malloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:149:18: warning: ‘void* __TBB_malloc_proxy(size_t)’ specifies less restrictive attributes than its target ‘void* malloc(size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  149 | extern "C" void *__TBB_malloc_proxy(size_t) __attribute__ ((alias ("malloc")));
+      |                  ^~~~~~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:200:14: note: ‘void* __TBB_malloc_proxy(size_t)’ target declared here
+  200 | void *PREFIX(malloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:300:7: warning: ‘void* __libc_valloc(size_t)’ specifies less restrictive attributes than its target ‘void* valloc(size_t)’: ‘alloc_size’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  300 | void *__libc_valloc(size_t size) __attribute__ ((alias ("valloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:231:14: note: ‘void* __libc_valloc(size_t)’ target declared here
+  231 | void *PREFIX(valloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:299:7: warning: ‘void* __libc_pvalloc(size_t)’ specifies less restrictive attributes than its target ‘void* pvalloc(size_t)’: ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  299 | void *__libc_pvalloc(size_t size) __attribute__ ((alias ("pvalloc")));
+      |       ^~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:261:7: note: ‘void* __libc_pvalloc(size_t)’ target declared here
+  261 | void *pvalloc(size_t size) __THROW
+      |       ^~~~~~~
+../../src/tbbmalloc/proxy.cpp:298:7: warning: ‘void* __libc_memalign(size_t, size_t)’ specifies less restrictive attributes than its target ‘void* memalign(size_t, size_t)’: ‘alloc_size’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  298 | void *__libc_memalign(size_t alignment, size_t size) __attribute__ ((alias ("memalign")));
+      |       ^~~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:225:14: note: ‘void* __libc_memalign(size_t, size_t)’ target declared here
+  225 | void *PREFIX(memalign)(ZONE_ARG size_t alignment, size_t size) __THROW
+      |              ^~~~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:297:7: warning: ‘void* __libc_calloc(size_t, size_t)’ specifies less restrictive attributes than its target ‘void* calloc(size_t, size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  297 | void *__libc_calloc(size_t num, size_t size) __attribute__ ((alias ("calloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:205:14: note: ‘void* __libc_calloc(size_t, size_t)’ target declared here
+  205 | void *PREFIX(calloc)(ZONE_ARG size_t num, size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:296:7: warning: ‘void* __libc_malloc(size_t)’ specifies less restrictive attributes than its target ‘void* malloc(size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  296 | void *__libc_malloc(size_t size) __attribute__ ((alias ("malloc")));
+      |       ^~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:200:14: note: ‘void* __libc_malloc(size_t)’ target declared here
+  200 | void *PREFIX(malloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~
+../../src/tbbmalloc/proxy.cpp:149:18: warning: ‘void* __TBB_malloc_proxy(size_t)’ specifies less restrictive attributes than its target ‘void* malloc(size_t)’: ‘alloc_size’, ‘leaf’, ‘malloc’, ‘nothrow’ [-Wmissing-attributes]
+  149 | extern "C" void *__TBB_malloc_proxy(size_t) __attribute__ ((alias ("malloc")));
+      |                  ^~~~~~~~~~~~~~~~~~
+../../src/tbbmalloc/proxy.cpp:200:14: note: ‘void* __TBB_malloc_proxy(size_t)’ target declared here
+  200 | void *PREFIX(malloc)(ZONE_ARG size_t size) __THROW
+      |              ^~~~~~
+../../src/tbbmalloc/proxy.cpp:166:22: note: in definition of macro ‘PREFIX’
+  166 | #define PREFIX(name) name
+      |                      ^~~~

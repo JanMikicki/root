@@ -1,0 +1,15 @@
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/install/local.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcregrep.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/install/strip.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcreposix.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcre_stringpiece_unittest.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcretest.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcrecpp_unittest.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcre_scanner_unittest.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcrecpp.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/test.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/edit_cache.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/rebuild_cache.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/list_install_components.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/pcre.dir
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-build/CMakeFiles/install.dir

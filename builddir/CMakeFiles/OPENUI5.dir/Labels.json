@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"OPENUI5"
+		],
+		"name" : "OPENUI5"
+	}
+}

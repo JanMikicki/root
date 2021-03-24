@@ -1,0 +1,13 @@
+# Target labels
+ PCRE
+# Source files and their labels
+/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE
+/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/CMakeFiles/PCRE-complete.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-install.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-mkdir.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-download.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-update.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-patch.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-configure.rule
+/home/diagoras/root_cern/root/builddir/builtins/pcre/PCRE-prefix/src/PCRE-stamp/PCRE-build.rule

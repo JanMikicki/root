@@ -1,0 +1,13 @@
+# Target labels
+ clad
+# Source files and their labels
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad-complete.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-install.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-mkdir.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-download.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-update.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-patch.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-configure.rule
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-build.rule

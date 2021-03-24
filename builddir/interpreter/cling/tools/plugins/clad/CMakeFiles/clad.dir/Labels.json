@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/CMakeFiles/clad-complete.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-install.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-mkdir.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-download.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-update.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-patch.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-configure.rule"
+		},
+		{
+			"file" : "/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"clad"
+		],
+		"name" : "clad"
+	}
+}

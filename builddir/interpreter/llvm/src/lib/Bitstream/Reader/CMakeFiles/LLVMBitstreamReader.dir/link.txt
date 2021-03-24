@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libLLVMBitstreamReader.a  CMakeFiles/LLVMBitstreamReader.dir/BitstreamReader.cpp.o
+/usr/bin/ranlib ../../libLLVMBitstreamReader.a

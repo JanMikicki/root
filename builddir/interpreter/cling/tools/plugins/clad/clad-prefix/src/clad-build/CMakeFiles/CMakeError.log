@@ -1,0 +1,66 @@
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_41ed1/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_41ed1.dir/build.make CMakeFiles/cmTC_41ed1.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_41ed1.dir/src.c.o
+/usr/bin/cc   -Wno-implicit-fallthrough -pipe -Wall -W -pthread -fPIC -fPIC -Werror=date-time -DC_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW   -Werror -Werror=unguarded-availability-new -o CMakeFiles/cmTC_41ed1.dir/src.c.o   -c /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp/src.c
+cc1: error: '-Werror=unguarded-availability-new': no option -Wunguarded-availability-new
+make[4]: *** [CMakeFiles/cmTC_41ed1.dir/build.make:66: CMakeFiles/cmTC_41ed1.dir/src.c.o] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_41ed1/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_feb57/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_feb57.dir/build.make CMakeFiles/cmTC_feb57.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_feb57.dir/src.cxx.o
+/usr/bin/c++    -std=c++14 -Wno-implicit-fallthrough -Wno-noexcept-type -pipe  -Wshadow -Wall -W -Woverloaded-virtual -fsigned-char -pthread   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-strict-aliasing -Wwrite-strings -Wno-shadow -Wno-unused-parameter -Wno-deprecated-declarations -fPIC -fno-rtti -fPIC -fvisibility-inlines-hidden -Werror=date-time -DCXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW   -Werror -Werror=unguarded-availability-new -o CMakeFiles/cmTC_feb57.dir/src.cxx.o -c /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: '-Werror=unguarded-availability-new': no option -Wunguarded-availability-new
+make[4]: *** [CMakeFiles/cmTC_feb57.dir/build.make:66: CMakeFiles/cmTC_feb57.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_feb57/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Determining if the os_signpost_interval_begin exist failed with the following output:
+Change Dir: /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9bbe6/fast && make[3]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_9bbe6.dir/build.make CMakeFiles/cmTC_9bbe6.dir/build
+make[4]: Entering directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9bbe6.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wno-implicit-fallthrough -pipe -Wall -W -pthread -fPIC -fPIC -Werror=date-time -w -ffunction-sections -fdata-sections    -o CMakeFiles/cmTC_9bbe6.dir/CheckSymbolExists.c.o   -c /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: os/signpost.h: No such file or directory
+    2 | #include <os/signpost.h>
+      |          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_9bbe6.dir/build.make:66: CMakeFiles/cmTC_9bbe6.dir/CheckSymbolExists.c.o] Error 1
+make[4]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_9bbe6/fast] Error 2
+make[3]: Leaving directory '/home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp'
+
+
+File /home/diagoras/root_cern/root/builddir/interpreter/cling/tools/plugins/clad/clad-prefix/src/clad-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <os/signpost.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef os_signpost_interval_begin
+  return ((int*)(&os_signpost_interval_begin))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

@@ -1,0 +1,10 @@
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Compatibility.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Tape.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/BuiltinDerivatives.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/DerivativeBuilder.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Differentiator.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/Version.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/StmtClone.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/include/clad/Differentiator/DiffPlanner.h
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/lib/libcladDifferentiator.a
+/home/diagoras/root_cern/root/builddir/etc/cling/plugins/lib/libcladPlugin.a

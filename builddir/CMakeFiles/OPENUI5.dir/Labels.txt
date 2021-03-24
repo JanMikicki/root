@@ -1,0 +1,13 @@
+# Target labels
+ OPENUI5
+# Source files and their labels
+/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5
+/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5.rule
+/home/diagoras/root_cern/root/builddir/CMakeFiles/OPENUI5-complete.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-install.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-mkdir.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-download.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-update.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-patch.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-configure.rule
+/home/diagoras/root_cern/root/builddir/OPENUI5-prefix/src/OPENUI5-stamp/OPENUI5-build.rule
